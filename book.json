@@ -4,7 +4,7 @@
 	"description": "感知环境 感受情绪 感染同伴",
 	"author": "Lonely Lee",
 	"language": "zh-hans",
-	// "root": "./docs",
+	"root": ".",
 	"links": {
 		"sidebar": {
 			"gitbook-templates": "https://github.com/mimilong/ll-how-to-work"
@@ -78,14 +78,6 @@
 		"3-ba": {
 			"token": "98c1048ef34431fef7bec1693e4a15cf"
 		},
-		// "donate": {
-		// 	"wechat": "https://raw.githubusercontent.com/dunwu/gitbook-templates/master/assets/images/weixin.png",
-		// 	"alipay": "https://raw.githubusercontent.com/dunwu/gitbook-templates/master/assets/images/zhifubao.png",
-		// 	"title": "",
-		// 	"button": "打赏",
-		// 	"alipayText": "支付宝打赏",
-		// 	"wechatText": "微信打赏"
-		// },
 		"disqus": {
 			"shortName": "Look Look Look"
 		},
